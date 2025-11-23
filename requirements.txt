@@ -1,0 +1,4 @@
+Basicamente o que vais precisar para rodar é:
+
+1. streamlit==1.38.0
+2. openai==1.47.0
