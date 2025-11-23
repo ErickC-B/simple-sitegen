@@ -1,4 +1,4 @@
-Markdown# SiteGen AI – Geração instantânea de sites para restaurantes
+# SiteGen AI – Geração instantânea de sites para restaurantes
 
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.38-red)
